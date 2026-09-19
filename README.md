@@ -1,4 +1,4 @@
-# PtoVen (Prometheus + Beethoven)
+# PthoVen (Prometheus + Beethoven)
 
 > AI기반 실시간 피아노 연주 가이드와 Practice Coach Agent를 결합한 초보자용 피아노 연습 서비스
 
